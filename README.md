@@ -14,7 +14,7 @@
 - [AI / ML](Manas_Gupta_AI_ML_2027.pdf)
 
 ## Website
-Responsive static HTML/CSS/JavaScript. Project filters, expandable engineering details, active navigation and email copy. Keyboard-accessible controls and reduced-motion support. No build step, external framework or API key required.
+Responsive static HTML/CSS/JavaScript with a light professional visual system. Includes project and credential filters, 14 verified document previews, active navigation, mobile menu, scroll reveals and accessible reduced-motion behavior. No build step or API key required.
 
 Run locally: `python3 -m http.server 8765`, then open http://localhost:8765.
 
